@@ -1,3 +1,10 @@
+# Result
+Go to https://weather-brite.netlify.app/ 
+APP MADED MY CYBER PIXEL STUDIO
+![Screenshot 2022-01-21 163109](https://user-images.githubusercontent.com/92704295/150516136-ddadea4e-0306-4d20-aba8-d269fd050e84.png)
+![Screenshot 2022-01-21 163023](https://user-images.githubusercontent.com/92704295/150516147-bbe15c1f-a28f-461f-af11-cc6e2e909b53.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
